@@ -95,7 +95,7 @@ So a Tokenmobile would increase by ₿0.00001 or ₿0.00003 every 60 seconds.
 ![](/media/program.jpg)
 
 
-Here is a demo of the program running the AVC algorithm. [WATCH DEMO](https://drive.google.com/file/d/10M1PcLHT_r6kEz8bumL3yzdjFDoLvsWI/view?usp=drivesdk)
+Here is a LIVE demo. [WATCH DEMO](http://209.38.230.0:5000/)
 
 You are looking at 2 RACKS of 2 Tokenmobiles being valuated by AVC. (official program to have 100 RACKS)
 
