@@ -17,7 +17,7 @@ A programming initiative for building an experimental program with a one of a ki
 The idea is to create an asset that demonstrates exactly where it will peak, when it will crash and how many times it would reach all time high for investors to know exactly when to invest, how long to hold and when to sell with very minimal risk. Using an algorithm that automatically values said asset using time to increase value in increments with bitcoin as the reference currency.
 
 
-Currently, every asset in the world that can be traded, is valued by either sentiment or market conditions. Where we stare at charts and hope for the best all day.
+Currently, every asset in the world, is valued by either sentiment or market conditions while being manipulated by billionaires, politicians and day traders staring at charts all day.
 
 With the AVC, the asset (Tokenmobiles) would be SELF VALUATED.....something never existing before.
 
@@ -25,7 +25,7 @@ With the AVC, the asset (Tokenmobiles) would be SELF VALUATED.....something neve
 
 For this to be executed, experienced programmers are needed to build their version of the program. (At least 100 versions are needed for a secure and sustainable launch)
 
-Once started on IGNITION DAY, the program must run/tick without interruption for over 200 years and CAN NEVER BE STOPPED.
+Then on START DAY, the program must run/tick without interruption for over 200 years and CAN NEVER BE STOPPED.
 
 The program must be like world time itself, multiple versions running on various servers, various devices, All following the same pattern/algorithm.
 
@@ -115,7 +115,7 @@ You are looking at 2 RACKS of 2 Tokenmobiles being valuated by AVC. (official pr
 7. Is the AVC/Value of the Tokenmobile which will increase in either ₿0.00001 or ₿0.00003 increments everytime the countup ticks 60 seconds. The value resets to ₿0.00000 when a new cycle starts. (Note that at the end of the final cycle, the value must stop and stay at its maximum valuation.
 
 
-The official program ready for IGNITION DAY must have 100 RACKS of each of the 100 Tokenmobile smart contracts all started together and running/ticking on AVC simultaneously until each one ends it's valuation journey. Tokenmobiles-100 will be the first to end after just 60 days at maximum valuation of ₿0.86400 and Tokenmobiles-43 the last to end after over 200 years at maximum valuation of ₿338.93753
+The official program ready for START DAY must have 100 RACKS of each of the 100 Tokenmobile smart contracts all started together and running/ticking on AVC simultaneously until each one ends it's valuation journey. Tokenmobiles-100 will be the first to end after just 60 days at maximum valuation of ₿0.86400 and Tokenmobiles-43 the last to end after over 200 years at maximum valuation of ₿338.93753
 
 
 The program also reqiures a backend server-side infrastruture, frontend interface to display real time second by second updates with no delay and a hosting solution capable of ensuring 99.99% uptime for over 200 years.
@@ -127,7 +127,7 @@ The program also reqiures a backend server-side infrastruture, frontend interfac
 
 ## THE CODE
 
-There is no template or open source code for the program/AVC to begin with. And the demo was coded just to run in terminal as visual demonstration. It is expected that each programmer codes their version of the program from complete scratch using their choice of tools, their own server, hosting solution and the fundamentals provided to them. 
+It is expected that each programmer codes their version of the program from complete scratch using their choice of tools, their own server, hosting solution and the fundamentals provided to them. The Demo can be used as a template but please don't copy the Demo's and other versions's code line for line.
 
 
 The reason for this, is to avoid duplicate versions with possibly the same bugs in code. There must be different code of the same program. This sustaining the longevity and security of the program.
@@ -141,7 +141,7 @@ The reason for this, is to avoid duplicate versions with possibly the same bugs 
 
 The Time IS Money initiative will be active on GitHub and Discord where programmers can come together to discuss and update on their process of attempting to build the program. 
 
-Once programmers actively build and share test runs of the program, they will recieve the IGNITION DAY date to officially run the program live and a package of the asset the program valuates. (10 years 1st cycle's worth of Tokenmobiles)
+Once programmers actively build and share test runs of the program, they will recieve the START DAY date to officially run the program live and a package of the asset the program valuates. (10 years 1st cycle's worth of Tokenmobiles)
 
 -
 -
@@ -150,4 +150,4 @@ Once programmers actively build and share test runs of the program, they will re
 
 ## THE ACCOMPLISHMENT
 
-If more than 100 versions of the program goes live on IGNITION DAY whether public or private, The asset and program would instantly have locked in significance and importance. Compared to stocks, metals, crypto, ETFs etc, it would be the only self valuated asset in the world.
+If more than 100 versions of the program goes live on START DAY whether public or private, The asset and program would instantly have locked in significance and importance. Compared to stocks, metals, crypto, ETFs etc, it would be the only self valuated asset in the world.
