@@ -5326,7 +5326,7 @@ Timestamps/cycles for backend
 2nd cycle - 01:020:12:00:00
 3rd cycle - 01:213:06:00:00
 4th cycle - 02:137:09:00:00
-5th cycle - 03:205:01:30:00
+5th cycle - 03:206:01:30:00
 
 
 
