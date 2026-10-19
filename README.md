@@ -2,7 +2,7 @@
 
 # PROJECT Time IS Money
 
-A programming initiative for building an experimental program with a one of a kind algorithm called AVC (Automation/Valuation/Currency).
+The first self valuated asset in the world.
 
 ---
 
@@ -23,7 +23,7 @@ With the AVC, the asset (Tokenmobiles) would be SELF VALUATED.....something neve
 
 
 
-For this to be executed, experienced programmers are needed to build their version of the program. (At least 100 versions are needed for a secure and sustainable launch)
+For this to be executed, programmers are needed to build their version of the program. (At least 100 versions are needed for a secure and sustainable launch)
 
 Then on START DAY, the program must run/tick without interruption for over 200 years and CAN NEVER BE STOPPED.
 
@@ -95,7 +95,7 @@ So a Tokenmobile would increase by ₿0.00001 or ₿0.00003 every 60 seconds.
 ![](/media/program.jpg)
 
 
-Here is a LIVE demo. [WATCH DEMO](http://209.38.230.0:5000/)
+Here is a LIVE demo. [WATCH DEMO](https://tokenmobiles.live/)
 
 You are looking at 2 RACKS of 2 Tokenmobiles being valuated by AVC. (official program to have 100 RACKS)
 
