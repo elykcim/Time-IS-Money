@@ -6,7 +6,7 @@ An innitiative for creating the world's first self valued asset.
 
 ---
 
-[English](https://github.com/elykcim/Time-IS-Money/blob/main/README.md) | [Español](https://github.com/elykcim/Time-IS-Money/blob/main/docs/spanish/README.es.md) | [عربي](https://github.com/elykcim/Time-IS-Money/blob/main/docs/arabic/README.ar.md) | [Français](https://github.com/elykcim/Time-IS-Money/blob/main/docs/french/README.fr.md) | [Hindi](https://github.com/elykcim/Time-IS-Money/blob/main/docs/indian/README.hi.md) | [Português](https://github.com/elykcim/Time-IS-Money/blob/main/docs/indian/README.to.md) | [Русский](https://github.com/elykcim/Time-IS-Money/blob/main/docs/indian/README.ru.md)
+[English](https://github.com/elykcim/Time-IS-Money/blob/main/README.md) | [Español](https://github.com/elykcim/Time-IS-Money/blob/main/docs/spanish/README.es.md) | [عربي](https://github.com/elykcim/Time-IS-Money/blob/main/docs/arabic/README.ar.md) | [Français](https://github.com/elykcim/Time-IS-Money/blob/main/docs/french/README.fr.md) | [Hindi](https://github.com/elykcim/Time-IS-Money/blob/main/docs/hindi/README.hi.md) | [Português](https://github.com/elykcim/Time-IS-Money/blob/main/docs/indian/README.to.md) | [Русский](https://github.com/elykcim/Time-IS-Money/blob/main/docs/indian/README.ru.md)
 
 </div>
 
