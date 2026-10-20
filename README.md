@@ -2,7 +2,7 @@
 
 # PROJECT Time IS Money
 
-The first self valuated asset in the world.
+An innitiative for creating the world's first self valued asset.
 
 ---
 
@@ -19,7 +19,7 @@ The idea is to create an asset that demonstrates exactly where it will peak, whe
 
 Currently, every asset in the world, is valued by either sentiment or market conditions while being manipulated by billionaires, politicians and day traders staring at charts all day.
 
-With the AVC, the asset (Tokenmobiles) would be SELF VALUATED.....something never existing before.
+With the AVC, the asset (Tokenmobiles) would be SELF VALUED, unreliant on external appreciation and validation.
 
 
 
@@ -52,6 +52,8 @@ Each smart contract has 1 unique Tokenmobile with a supply ranging from 200 to 5
 There are 999,999 Tokenmobiles all together.
 
 Each unique Tokenmobile has attributes/metadata which is essential for the AVC algorithm.
+
+The metadata is secured on arweave and backed up on ipfs.
 
 
 ![](/media/asset.png)
@@ -97,7 +99,7 @@ So a Tokenmobile would increase by ₿0.00001 or ₿0.00003 every 60 seconds.
 
 Here is a LIVE demo. [WATCH DEMO](https://tokenmobiles.live/)
 
-You are looking at 2 RACKS of 2 Tokenmobiles being valuated by AVC. (official program to have 100 RACKS)
+You are looking at 2 RACKS of 2 Tokenmobiles being valued by AVC. (official program to have 100 RACKS)
 
 1. Is the smart contract address/location of the asset being valuated.
 
@@ -118,7 +120,7 @@ You are looking at 2 RACKS of 2 Tokenmobiles being valuated by AVC. (official pr
 The official program ready for START DAY must have 100 RACKS of each of the 100 Tokenmobile smart contracts all started together and running/ticking on AVC simultaneously until each one ends it's valuation journey. Tokenmobiles-100 will be the first to end after just 60 days at maximum valuation of ₿0.86400 and Tokenmobiles-43 the last to end after over 200 years at maximum valuation of ₿338.93753
 
 
-The program also reqiures a backend server-side infrastruture, frontend interface to display real time second by second updates with no delay and a hosting solution capable of ensuring 99.99% uptime for over 200 years.
+The program reqiures a backend server-side infrastruture, frontend interface to display real time second by second updates with no delay and a hosting solution capable of ensuring 99.99% uptime for over 200 years.
 
 -
 -
@@ -150,4 +152,4 @@ Once programmers actively build and share test runs of the program, they will re
 
 ## THE ACCOMPLISHMENT
 
-If more than 100 versions of the program goes live on START DAY whether public or private, The asset and program would instantly have locked in significance and importance. Compared to stocks, metals, crypto, ETFs etc, it would be the only self valuated asset in the world.
+If more than 100 versions of the program goes live on START DAY whether public or private, The asset and program would instantly have locked in significance and importance. Compared to stocks, metals, crypto, ETFs etc, it would be the only self valued asset in the world.
