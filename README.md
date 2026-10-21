@@ -152,4 +152,4 @@ Once programmers actively build and share test runs of the program, they will re
 
 ## THE ACCOMPLISHMENT
 
-If more than 100 versions of the program goes live on START DAY whether public or private, The asset and program would instantly have locked in significance and importance. Compared to stocks, metals, crypto, ETFs etc, it would be the only self valued asset in the world.
+If more than 100 versions of the program goes live on START DAY whether public or private, The asset and program would instantly have locked in significance and importance in the assets class. Compared to stocks, metals, crypto, ETFs etc, it would be the only self valued asset in the world.
