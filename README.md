@@ -21,18 +21,21 @@ Currently, every asset in the world, is valued by either sentiment or market con
 
 With the AVC, the asset (Tokenmobiles) would be SELF VALUED, unreliant on external appreciation and validation.
 
+-
+-
+-
+-
 
+## THE OBJECTIVE
 
-For this to be executed, programmers are needed to build their version of the program. (At least 100 versions are needed for a secure and sustainable launch)
+Volunteers are needed to create more versions/duplicates of the program (At least 100 versions are needed for a secure and sustainable launch on START DAY).
 
 Then from START DAY, the program must run/tick without interruption for over 200 years and CAN NEVER BE STOPPED.
 
 The program must be like world time itself, multiple versions running on various servers, various devices, All following the same pattern/algorithm.
 
 
-
-
-Before programmers begin building their version of the program with their choice of tools, they'll need the fundamental features/details of the asset and AVC algorithm.
+Before volunteers begin building their version of the program with their choice of tools, they'll need the fundamentals and key details of the asset and AVC algorithm.
 
 -
 -
@@ -97,11 +100,11 @@ So a Tokenmobile would increase by ₿0.00001 or ₿0.00003 every 60 seconds.
 ![](/media/program.jpg)
 
 
-Here is a LIVE demo. [WATCH DEMO](https://tokenmobiles.live/)
+Here is a [LIVE DEMO](https://tokenmobiles.live/)
 
-You are looking at 2 RACKS of 2 Tokenmobiles being valued by AVC. (official program to have 100 RACKS)
+In the image above, you are looking at 2 RACKS of 2 Tokenmobiles being valued by AVC. (official program to have 100 RACKS)
 
-1. Is the smart contract address/location of the asset being valuated.
+1. Is the smart contract address/location of the asset being valued.
 
 2. Is the live countup formated in YY/DDD/HH/MM/SS (note that DAYS are to 365) No leap years, No weeks. No months. No milliseconds.
 
@@ -129,7 +132,7 @@ The program reqiures a backend server-side infrastruture, frontend interface to 
 
 ## THE CODE
 
-It is expected that each programmer codes their version of the program from complete scratch using their choice of tools, their own server, hosting solution and the fundamentals provided to them. The Demo can be used as a template but please don't copy the Demo's and other versions's code line for line.
+It is expected that each volunteer codes their version of the program from complete scratch using their choice of tools, their own server, hosting solution and the fundamentals provided to them. The Demo can be used as a template but please don't copy the Demo's and other versions's code line for line.
 
 
 The reason for this, is to avoid duplicate versions with possibly the same bugs in code. There must be different code of the same program. This sustaining the longevity and security of the program.
@@ -141,9 +144,9 @@ The reason for this, is to avoid duplicate versions with possibly the same bugs 
 
 ## THE ENVIRONMENT
 
-The Time IS Money initiative will be active on GitHub and Discord where programmers can come together to discuss and update on their process of attempting to build the program. 
+The Time IS Money initiative will be active on GitHub and Discord where volunteers can come together to discuss and update on their process of attempting to build the program. 
 
-Once programmers actively build and share test runs of the program, they will recieve the START DAY date to officially run the program live and a package of the asset the program valuates. (10 years 1st cycle's worth of Tokenmobiles)
+Once volunteers actively build and share test runs of the program, they will recieve the START DAY date to officially run the program live and a package of the asset the program valuates. (10 years 1st cycle's worth of Tokenmobiles)
 
 -
 -
