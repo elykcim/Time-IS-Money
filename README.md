@@ -14,7 +14,7 @@ An innitiative for creating the world's first self valued asset.
 
 
 
-The idea is to create an asset that demonstrates exactly where it will peak, when it will crash and how many times it would reach all time high for investors to know exactly when to invest, how long to hold and when to sell with very minimal risk. Using an algorithm that automatically values said asset using time to increase value in increments with bitcoin as the reference currency.
+The idea is to create an asset that demonstrates exactly where it will peak, when it will crash and how many times it would reach all time high in value for investors to know exactly when to invest, how long to hold and when to sell with very minimal risk. Using an algorithm that automatically values said asset using time to increase value in increments with bitcoin as the reference currency.
 
 
 Currently, every asset in the world, is valued by either sentiment or market conditions while being manipulated by billionaires, politicians and day traders staring at charts all day.
@@ -25,7 +25,7 @@ With the AVC, the asset (Tokenmobiles) would be SELF VALUED, unreliant on extern
 
 For this to be executed, programmers are needed to build their version of the program. (At least 100 versions are needed for a secure and sustainable launch)
 
-Then on START DAY, the program must run/tick without interruption for over 200 years and CAN NEVER BE STOPPED.
+Then from START DAY, the program must run/tick without interruption for over 200 years and CAN NEVER BE STOPPED.
 
 The program must be like world time itself, multiple versions running on various servers, various devices, All following the same pattern/algorithm.
 
