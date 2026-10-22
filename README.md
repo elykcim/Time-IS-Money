@@ -146,7 +146,7 @@ The reason for this, is to avoid duplicate versions with possibly the same bugs 
 
 The Time IS Money initiative will be active on GitHub and Discord where volunteers can come together to discuss and update on their process of attempting to build the program. 
 
-Once volunteers actively build and share test runs of the program, they will recieve the START DAY date to officially run the program live and a package of the asset the program valuates. (10 years 1st cycle's worth of Tokenmobiles)
+Once volunteers actively build and share test runs of the program, they will recieve the START DAY date to officially run the program live and a package of the asset the program values. (10 years 1st cycle's worth of Tokenmobiles)
 
 -
 -
