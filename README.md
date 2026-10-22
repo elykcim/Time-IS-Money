@@ -45,7 +45,7 @@ Before programmers begin building their version of the program with their choice
 
 ## THE ASSET
 
-100 standard cookie cutter fungible token smart contracts were deployed on the Stacks blockchain. 
+100 standard cookie cutter semi-fungible token smart contracts were deployed on the Stacks blockchain. 
 
 Each smart contract has 1 unique Tokenmobile with a supply ranging from 200 to 50000. 
 
