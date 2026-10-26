@@ -82,7 +82,7 @@ AVC - The algorithm/engine that values each Tokenmobile.
 -
 
 ## THE ALGORITHM
-• A for Automation. The Automation being TIME and TIME being 60 seconds.
+• A for Automation. The Automation being TIME in 60 second intervals.
 
 • V for Valuation. The Valuation being either in 0.00001 or 0.00003 increments
 
