@@ -14,12 +14,11 @@ An innitiative for creating the world's first self valued asset.
 
 
 
-The idea is to create an asset that demonstrates exactly where it will peak, when it will crash and how many times it would reach all time high in value for investors to know exactly when to invest, how long to hold and when to sell with very minimal risk. Using an algorithm that automatically values said asset by it's unique attributes and the AVC (Automation/Valuation/Currency).
-
-
 Currently, every asset in the world, is valued by either sentiment or market conditions while being manipulated by billionaires, politicians and day traders staring at charts all day.
 
-With the AVC, the asset (Tokenmobiles) would be SELF VALUED, unreliant on external appreciation and validation.
+Imagine an asset that demonstrates exactly where it will peak, when it will crash and how many times it would reach all time high in value for investors to know exactly when to invest, how long to hold and when to sell with very minimal risk. Using an algorithm that automatically values said asset by it's unique attributes, in conjuntion with what I call the AVC (Automation/Valuation/Currency).
+
+Such asset would be SELF VALUED, unreliant on external appreciation and validation.
 
 -
 -
@@ -28,7 +27,7 @@ With the AVC, the asset (Tokenmobiles) would be SELF VALUED, unreliant on extern
 
 ## THE OBJECTIVE
 
-Volunteers are needed to create more versions/duplicates of the program (At least 100 versions are needed for a secure and sustainable launch on START DAY).
+Volunteers are needed to create more versions/duplicates of a program (At least 100 versions are needed for a secure and sustainable launch on START DAY).
 
 Then from START DAY, the program must run/tick without interruption for over 200 years and CAN NEVER BE STOPPED.
 
@@ -48,7 +47,7 @@ Before volunteers begin building their version of the program with their choice 
 
 ## THE ASSET
 
-100 standard cookie cutter semi-fungible token smart contracts were deployed on the Stacks blockchain. 
+100 standard cookie cutter semi-fungible token smart contracts were deployed on the Stacks blockchain. They're called Tokenmobiles
 
 Each smart contract has 1 unique Tokenmobile with a supply ranging from 200 to 50000. 
 
@@ -102,7 +101,7 @@ So a Tokenmobile would increase by ₿0.00001 or ₿0.00003 every 60 seconds.
 
 Here is a [LIVE DEMO](https://tokenmobiles.live/)
 
-In the image above, you are looking at 2 RACKS of 2 Tokenmobiles being valued by AVC. (official program to have 100 RACKS)
+In the image above, you are looking at the program that consists of 2 RACKS of 2 Tokenmobiles being valued by AVC. (official program to have 100 RACKS)
 
 1. Is the smart contract address/location of the asset being valued.
 
