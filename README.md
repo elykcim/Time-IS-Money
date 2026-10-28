@@ -31,7 +31,7 @@ Volunteers are needed to create more versions/duplicates of a program (At least 
 
 Then from START DAY, the program must run/tick without interruption for over 200 years and CAN NEVER BE STOPPED.
 
-The program must be like world time itself, multiple versions running on various servers, various devices, All following the same pattern/algorithm.
+The program must be like WORLD TIME itself, multiple versions running on various servers, various devices, All following the same pattern/algorithm.
 
 
 Before volunteers begin building their version of the program with their choice of tools, they'll need the fundamentals and key details of the asset and AVC algorithm.
@@ -47,7 +47,7 @@ Before volunteers begin building their version of the program with their choice 
 
 ## THE ASSET
 
-100 standard cookie cutter semi-fungible token smart contracts were deployed on the Stacks blockchain. They're called Tokenmobiles
+100 standard cookie cutter semi-fungible token smart contracts were deployed on the Stacks blockchain. They're called TOKENMOBILES.
 
 Each smart contract has 1 unique Tokenmobile with a supply ranging from 200 to 50000. 
 
