@@ -27,7 +27,7 @@ Such asset would be SELF VALUED, unreliant on external appreciation and validati
 
 ## THE OBJECTIVE
 
-Volunteers are needed to create more versions/duplicates of a program (At least 100 versions are needed for a secure and sustainable launch on START DAY).
+Volunteers are needed to create more versions/iterations of a program (At least 100 versions are needed for a secure and sustainable launch on START DAY).
 
 Then from START DAY, the program must run/tick without interruption for over 200 years and CAN NEVER BE STOPPED.
 
@@ -131,7 +131,7 @@ The program reqiures a backend server-side infrastruture, frontend interface to 
 
 ## THE CODE
 
-It is expected that each volunteer codes their version of the program from complete scratch using their choice of tools, their own server, hosting solution and the fundamentals provided to them. The Demo can be used as a template but please don't copy the Demo's and other versions's code line for line.
+It is expected that each volunteer codes their version of the program from complete scratch using their choice of tools, preferred design, their own server, hosting solution and the fundamentals provided to them. The Demo can be used as a template but please don't copy the Demo's and other versions's code line for line.
 
 
 The reason for this, is to avoid duplicate versions with possibly the same bugs in code. There must be different code of the same program. This sustaining the longevity and security of the program.
