@@ -1,3 +1,3 @@
 </div>
 
-[LIVE DEMO](https://tokenmobiles.live/)
+[Tokenmobiles.live](https://tokenmobiles.live/)
