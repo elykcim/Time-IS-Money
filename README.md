@@ -14,7 +14,7 @@ An innitiative for creating the world's first self valued asset.
 
 
 
-Currently, every asset in the world, is valued by either sentiment or market conditions while being manipulated by billionaires, politicians and day traders staring at charts all day.
+Currently, every asset in the world, is valued by either sentiment or market conditions while being manipulated by billionaires, politicians and jeet traders staring at charts all day.
 
 Imagine an asset that determines exactly where it will peak, when it will crash and how many times it would reach all time high in value for investors to know exactly when to invest, how long to hold and when to sell with very minimal risk. Using an algorithm that automatically values said asset by it's unique attributes, in conjuntion with what I call the AVC (Automation/Valuation/Currency).
 
