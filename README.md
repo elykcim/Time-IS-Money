@@ -4,7 +4,7 @@
 
 An innitiative for creating the world's first self valued asset.
 
-[Demo](https://tokenmobiles.live/) [Discord](https://discord.gg/GmMKXrmUq) [x](https://x.com/tokenmobiles) [claim](https://linktr.ee/tokenmobiles)
+[Demo](https://tokenmobiles.live/) [Discord](https://discord.gg/GmMKXrmUq) [X](https://x.com/tokenmobiles) [claim](https://linktr.ee/tokenmobiles)
 
 ---
 
